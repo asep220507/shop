@@ -88,6 +88,7 @@ body {
 
 h2 {
   margin-top: 40px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .boxnoo {
@@ -108,6 +109,7 @@ h2 {
   font-size: 30px;
   margin-top: 3px;
   margin-right: 1px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #nohp {
@@ -122,10 +124,12 @@ h2 {
   margin-bottom: 40px;
   outline: none;
   border: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #nohp::placeholder {
   color: grey;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
@@ -133,6 +137,7 @@ p {
   margin-right: 10px;
   margin-top: 20px;
   color: grey;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /* AKHIR BAGIAN NOMER */
@@ -190,6 +195,7 @@ p {
   justify-content: center;
   display: grid;
   transition: all 0.2s ease-in-out;
+  
 }
 
 .clicked {
@@ -211,12 +217,14 @@ p {
   height: 25px;
   width: 100%;
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .day {
   text-align: center;
   width: 100%;
   color: grey;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .rp {
@@ -224,6 +232,7 @@ p {
   width: 100%;
   color: orange;
   font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /* AKHUR BAGIAN STYLE PAKET DATA */
@@ -246,6 +255,7 @@ p {
 
 .boxno3 h2 {
   margin-bottom: 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .boxnoo3 {
@@ -259,6 +269,7 @@ p {
   border: 8px solid white;
   justify-content: center;
   display: flex;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .metode {
@@ -293,12 +304,14 @@ p {
   margin-top: 17px;
   margin-left: 10px;
   font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #via {
   height: 60px;
   width: 120px;
   margin-right: 10px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /* AKHIR BAGIAN STYLE METODE PEMBAYARAN */
